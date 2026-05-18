@@ -128,11 +128,11 @@ Driving the evolution from traditional QA to next-generation Quality Engineering
 
 ---
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
-- 💼 Open to Senior Leadership / Principal / Architect roles in Quality Engineering  
-- 🌍 Interested in global opportunities and large-scale transformation programs  
+- Open to Senior Leadership / Principal / Architect roles in Quality Engineering  
+- Interested in global opportunities and large-scale transformation programs  
 
 ---
 
-⭐ If my work resonates with you, feel free to explore, fork, and collaborate.
+ If my work resonates with you, feel free to explore, fork, and collaborate.
