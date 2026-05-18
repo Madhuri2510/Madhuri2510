@@ -1,9 +1,9 @@
-# 👩‍💻 Madhuri Goswami  
+#  Madhuri Goswami  
 **Principal Quality Engineer | Test Architect | Quality Transformation Leader | AI-Driven QA**
 
 ---
 
-## 🧭 Executive Summary
+##  Executive Summary
 
 Results-driven Quality Engineering Leader with 12+ years of experience architecting and scaling enterprise-grade QA ecosystems across distributed, cloud-native platforms.
 
@@ -13,7 +13,7 @@ Recognized for bridging the gap between business, engineering, and quality, whil
 
 ---
 
-## 🏗️ Core Competencies
+##  Core Competencies
 
 - Test Strategy & Governance  
 - Enterprise Test Architecture & Framework Design  
@@ -27,7 +27,7 @@ Recognized for bridging the gap between business, engineering, and quality, whil
 
 ---
 
-## ⚙️ Technology Stack
+##  Technology Stack
 
 ### Automation & Testing
 - Playwright (TypeScript) | Selenium (Java/Python) | Cypress  
@@ -46,7 +46,7 @@ Recognized for bridging the gap between business, engineering, and quality, whil
 
 ---
 
-## 👥 Leadership & Organizational Impact
+##  Leadership & Organizational Impact
 
 - Directed Quality Engineering initiatives for multi-team environments (~100+ engineers) across multiple product lines  
 - Defined and executed enterprise-wide QA strategy, aligning with business and engineering OKRs  
@@ -56,17 +56,17 @@ Recognized for bridging the gap between business, engineering, and quality, whil
 
 ---
 
-## 📊 Measurable Business Impact
+##  Measurable Business Impact
 
-- 🚀 Reduced regression execution time from 2 days to under 4 hours through robust automation architecture  
-- 📉 Achieved ~70% reduction in production defects, improving overall product stability  
-- ⚡ Transformed release cycles from ad-hoc hotfixes to structured, predictable deployments  
-- 🔄 Designed scalable frameworks enabling parallel execution and high test coverage at speed  
-- 🔥 Successfully executed high-volume performance testing (2000+ concurrent requests) with zero system degradation  
+-  Reduced regression execution time from 2 days to under 4 hours through robust automation architecture  
+-  Achieved ~70% reduction in production defects, improving overall product stability  
+-  Transformed release cycles from ad-hoc hotfixes to structured, predictable deployments  
+- Designed scalable frameworks enabling parallel execution and high test coverage at speed  
+-  Successfully executed high-volume performance testing (2000+ concurrent requests) with zero system degradation  
 
 ---
 
-## 🏢 Domain Expertise
+##  Domain Expertise
 
 - Banking & Financial Services (BFSI)  
 - E-commerce & Transactional Platforms  
@@ -75,7 +75,7 @@ Recognized for bridging the gap between business, engineering, and quality, whil
 
 ---
 
-## 🧠 Quality Engineering Philosophy
+##  Quality Engineering Philosophy
 
 > “Quality is not a phase — it is a continuous engineering discipline embedded across the lifecycle.”
 
@@ -86,7 +86,7 @@ Recognized for bridging the gap between business, engineering, and quality, whil
 
 ---
 
-## 🤖 AI-Driven Quality Engineering (Current Focus)
+##  AI-Driven Quality Engineering (Current Focus)
 
 - Self-healing test automation frameworks  
 - AI-based assertion and validation engines  
@@ -96,16 +96,16 @@ Recognized for bridging the gap between business, engineering, and quality, whil
 
 ---
 
-## 📂 Featured Initiatives
+##  Featured Initiatives
 
-- 🔹 Enterprise-grade Playwright Automation Framework (UI + API)  
-- 🔹 Scalable API Testing & Reporting Ecosystem  
-- 🔹 Performance Testing Framework using modern tooling  
-- 🔹 AI-powered QA accelerators (in progress 🚧)  
+-  Enterprise-grade Playwright Automation Framework (UI + API)  
+-  Scalable API Testing & Reporting Ecosystem  
+-  Performance Testing Framework using modern tooling  
+-  AI-powered QA accelerators (in progress 🚧)  
 
 ---
 
-## 📈 What You’ll Find in This GitHub
+##  What You’ll Find in This GitHub
 
 This profile is a reflection of real-world QA leadership and engineering excellence, including:
 
@@ -117,7 +117,7 @@ This profile is a reflection of real-world QA leadership and engineering excelle
 
 ---
 
-## 🤝 Leadership Vision
+##  Leadership Vision
 
 Driving the evolution from traditional QA to next-generation Quality Engineering, where:
 
