@@ -1,5 +1,5 @@
 #  Madhuri Goswami  
-**Principal Quality Engineer | Test Architect | Quality Transformation Leader | AI-Driven QA**
+**Staff Quality Engineer | Test Architect | Quality Transformation Leader | AI-Driven QA**
 
 ---
 
